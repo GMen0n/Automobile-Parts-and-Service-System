@@ -67,3 +67,17 @@ Follow these instructions to set up and run the project locally.
 ```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
+```
+### 2. Update secrets.toml with your SQL DB Information
+```toml
+username = "your sql username"
+password = "your sql password"
+```
+### 3. Install streamlit 
+```bash
+pip install streamlit
+```
+### 4. Run the App
+```python
+streamlit run app.py
+```
