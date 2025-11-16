@@ -7,8 +7,8 @@
 A full-stack web application for an Auto Service & Parts Management System, built with Streamlit and MySQL. This is a mini-project for the Database Management System (UE23CS351A) course.
 
 ### Team Members
-* **Gautam Menon** – PES2UG23CS196
-* **C Vishwa** – PES2UG23CS139
+* **Gautam Menon** – PES2UG23CS196 https://github.com/GMen0n
+* **C Vishwa** – PES2UG23CS139 https://github.com/C-VISHWA
 
 ---
 
