@@ -1,4 +1,4 @@
-# 🚗 Auto Service Management System (DBMS Mini-Project)
+# Auto Service Management System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0-red?style=for-the-badge&logo=streamlit)
@@ -12,7 +12,7 @@ A full-stack web application for an Auto Service & Parts Management System, buil
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Admin Dashboard:** A clean, multi-tab interface built with Streamlit for managing different aspects of the auto shop.
 * **Full CRUD Functionality:** Complete Create, Read, and Delete operations for managing mechanics.
@@ -22,7 +22,7 @@ A full-stack web application for an Auto Service & Parts Management System, buil
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **Frontend:** **Streamlit** (for the web-based GUI)
 * **Backend:** **Python**
@@ -31,7 +31,7 @@ A full-stack web application for an Auto Service & Parts Management System, buil
 
 ---
 
-## 🐘 Database Design & Advanced Features
+## Database Design & Advanced Features
 
 The MySQL database schema features 8 tables: `customers`, `mechanics`, `services`, `parts`, `vehicles`, `orders`, `orderitems`, and `serviceappointments`.
 
@@ -54,7 +54,7 @@ This project implements advanced database features as required by the project ru
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to set up and run the project locally.
 
